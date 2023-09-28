@@ -1,2 +1,3 @@
 # network
-Work by Senai mechatronics technician students
+
+In this repository are my studies on networks sponsored by Cisco
